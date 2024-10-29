@@ -1,0 +1,14 @@
+{
+    "habits": [
+        {
+            "name": "Exercise",
+            "periodicity": "daily",
+            "checkoff_dates": ["2024-09-01", "2024-09-02", "2024-09-03", "2024-09-04"]
+        },
+        {
+            "name": "Read",
+            "periodicity": "weekly",
+            "checkoff_dates": ["2024-09-01", "2024-09-08", "2024-09-15", "2024-09-22"]
+        }
+    ]
+}
